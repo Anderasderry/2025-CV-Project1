@@ -29,7 +29,7 @@
 
 	请从 [CIFAR-10 官网](https://www.cs.toronto.edu/~kriz/cifar.html) 下载 `cifar-10-python.tar.gz`文件，解压后将文件夹放至项目目录，保持文件名为 `cifar-10-batches-py/`。
 
-* **neural_network.py
+* **neural_network.py**
 
 	基于 NumPy 实现的多层神经网络系统，用于 CIFAR-10 图像分类任务，无依赖任何深度学习框架。
 
