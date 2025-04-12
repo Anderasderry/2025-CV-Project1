@@ -1,9 +1,3 @@
-"""
-Author: Xiaorui Jin 23307110107
-Homepage: https://github.com/Anderasderry/2025-CV-Project1
-
-"""
-
 import numpy as np
 from tqdm import tqdm
 
