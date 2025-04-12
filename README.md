@@ -64,7 +64,7 @@
 
 * **best_model.txt**
 	
-	训练过的模型，在测试集上的准确率达到$53.87\%$，可在<a href = https://pan.baidu.com/s/1IyLk1vmPk_Zi54C17ov3PA>百度网盘</a>下载，提取码：**wwin**
+	训练过的模型，在测试集上的准确率达到53.87%，可在<a href = https://pan.baidu.com/s/1IyLk1vmPk_Zi54C17ov3PA>百度网盘</a>下载，提取码：**wwin**
 
 * **eval_model.py**
 	
