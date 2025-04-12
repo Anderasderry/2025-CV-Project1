@@ -2,7 +2,7 @@
 <h1 align="center"> 2025-CV-Project1</h1>
 <div align="center"> Repository for Fudan Course Computer Vision Project 1</div>
 
-<div align="center"> Author: 金潇睿</div>
+<div align="center"> Author: Xiaorui Jin</div>
 
 ## 任务描述
 手工搭建三层神经网络分类器，在数据集 CIFAR-10 上进行训练以实现图像分类。
